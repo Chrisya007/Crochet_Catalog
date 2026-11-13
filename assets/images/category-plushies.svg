@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Pastel illustration of a crochet teddy bear</title>
+  <path d="M53 207C42 117 107 49 197 48c91-1 157 65 151 155-6 87-61 147-150 148-85 0-135-55-145-144Z" fill="#dceffa"/>
+  <circle cx="126" cy="125" r="47" fill="#c99573" stroke="#91654f" stroke-width="8"/>
+  <circle cx="276" cy="125" r="47" fill="#c99573" stroke="#91654f" stroke-width="8"/>
+  <circle cx="126" cy="125" r="22" fill="#eac7a7"/>
+  <circle cx="276" cy="125" r="22" fill="#eac7a7"/>
+  <path d="M112 200c0-56 39-94 88-94s88 38 88 94v93c0 25-20 45-45 45h-86c-25 0-45-20-45-45z" fill="#d9aa87" stroke="#91654f" stroke-width="8"/>
+  <ellipse cx="200" cy="217" rx="57" ry="44" fill="#f6e2cb"/>
+  <circle cx="169" cy="184" r="7" fill="#493b38"/>
+  <circle cx="231" cy="184" r="7" fill="#493b38"/>
+  <path d="M190 210c0-8 5-13 10-13s10 5 10 13l-10 9z" fill="#8b5a52"/>
+  <path d="M200 219c-7 11-18 12-24 4m24-4c7 11 18 12 24 4" fill="none" stroke="#754c46" stroke-width="5" stroke-linecap="round"/>
+  <path d="M133 272c18 11 38 16 67 16s49-5 67-16" fill="none" stroke="#c78e6a" stroke-width="7" stroke-linecap="round" stroke-dasharray="3 12"/>
+  <path d="M179 275h42v35h-42z" rx="8" fill="#f3aabb"/>
+  <path d="M187 284h26m-26 9h26" stroke="#d97d93" stroke-width="4" stroke-linecap="round"/>
+</svg>

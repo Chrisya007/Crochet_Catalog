@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Pastel illustration of a crochet beanie</title>
+  <path d="M56 202C43 116 111 42 204 48c84 5 148 76 139 157 39 40 27 119-31 147-73 35-201 28-252-15-47-40-48-98-4-135Z" fill="#dceffa"/>
+  <circle cx="305" cy="99" r="31" fill="#f7c7d2"/>
+  <path d="M109 226c2-78 44-130 94-130s92 52 94 130H109Z" fill="#8fc8e8" stroke="#4f91b8" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M107 225h192c24 0 41 18 41 40v27H66v-27c0-22 17-40 41-40Z" fill="#b9e0f5" stroke="#4f91b8" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M126 248v31m38-31v31m39-31v31m39-31v31m38-31v31" stroke="#6ba9ce" stroke-width="7" stroke-linecap="round"/>
+  <path d="M183 94c-6-21 7-41 22-41s28 20 22 41" fill="#f7c7d2" stroke="#4f91b8" stroke-width="8"/>
+  <path d="M116 203c2-26 8-46 17-63m151 63c-2-26-8-46-17-63" fill="none" stroke="#d7effb" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="188" cy="172" r="5" fill="#4f91b8"/>
+  <circle cx="214" cy="172" r="5" fill="#4f91b8"/>
+  <path d="M192 187c5 6 13 6 18 0" fill="none" stroke="#4f91b8" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Pastel illustration of a handmade crochet pouch</title>
+  <path d="M52 194C53 99 129 47 210 54c80 7 138 61 139 143 1 88-56 151-151 151-87 0-147-61-146-154Z" fill="#dceffa"/>
+  <path d="M119 172c0-29 22-52 49-52h64c27 0 49 23 49 52l12 136c2 22-16 40-38 40H145c-22 0-40-18-38-40z" fill="#91c9e8" stroke="#4f91b8" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M119 190c25 15 50 20 81 20s57-5 81-20" fill="none" stroke="#eaf7fd" stroke-width="8" stroke-linecap="round"/>
+  <path d="M122 229c24 12 49 17 78 17s55-5 78-17m-153 39c23 11 48 16 75 16s53-5 76-16" fill="none" stroke="#6ba9ce" stroke-width="7" stroke-linecap="round" stroke-dasharray="2 12"/>
+  <path d="M151 120c4-29 21-47 49-47s45 18 49 47" fill="none" stroke="#4f91b8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M184 74c0-10 7-18 16-18s16 8 16 18" fill="none" stroke="#a9d8f2" stroke-width="7" stroke-linecap="round"/>
+  <path d="M151 179c15 6 31 9 49 9s34-3 49-9" fill="none" stroke="#4f91b8" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="200" cy="264" r="26" fill="#f4a8ba" stroke="#c96d86" stroke-width="5"/>
+  <path d="m200 243 6 14 15 1-11 10 4 15-14-8-13 8 3-15-11-10 15-1z" fill="#fff1bc"/>
+  <path d="M92 124c10-15 24-21 41-18m136-14c13-9 29-8 42 2" fill="none" stroke="#b9e0f5" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="103" cy="141" r="7" fill="#f4a8ba"/>
+  <circle cx="310" cy="147" r="8" fill="#fff1bc"/>
+</svg>

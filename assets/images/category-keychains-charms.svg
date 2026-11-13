@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Pastel illustration of a crochet flower keychain</title>
+  <path d="M51 201C46 111 111 49 198 49c91 0 150 62 151 150 1 91-60 153-151 153-87 0-142-59-147-151Z" fill="#dceffa"/>
+  <circle cx="200" cy="106" r="43" fill="none" stroke="#659fc2" stroke-width="12"/>
+  <circle cx="200" cy="106" r="27" fill="none" stroke="#a9d8f2" stroke-width="5"/>
+  <path d="M200 149v28" fill="none" stroke="#659fc2" stroke-width="9" stroke-linecap="round"/>
+  <path d="M181 173c7 12 12 18 19 24 7-6 12-12 19-24" fill="none" stroke="#8fc8e8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 190v28" fill="none" stroke="#659fc2" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#f4a8ba" stroke="#c96d86" stroke-width="6">
+    <ellipse cx="200" cy="229" rx="22" ry="43"/>
+    <ellipse cx="200" cy="229" rx="22" ry="43" transform="rotate(45 200 229)"/>
+    <ellipse cx="200" cy="229" rx="22" ry="43" transform="rotate(90 200 229)"/>
+    <ellipse cx="200" cy="229" rx="22" ry="43" transform="rotate(135 200 229)"/>
+  </g>
+  <circle cx="200" cy="229" r="26" fill="#fff1bc" stroke="#c99d4c" stroke-width="6"/>
+  <circle cx="192" cy="222" r="4" fill="#d49d55"/>
+  <circle cx="207" cy="222" r="4" fill="#d49d55"/>
+  <circle cx="200" cy="236" r="4" fill="#d49d55"/>
+  <path d="M200 277v13m-25 1 25 4 25-4m-46 12 21-4 21 4m-38 10 17-5 17 5m-30 9 13-5 13 5" fill="none" stroke="#c96d86" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="111" cy="170" r="7" fill="#8fc8e8"/>
+  <circle cx="290" cy="171" r="8" fill="#fff1bc"/>
+  <path d="m112 239 5 10 11 2-8 8 2 11-10-5-10 5 2-11-8-8 11-2z" fill="#fff1bc"/>
+  <circle cx="287" cy="267" r="6" fill="#f4a8ba"/>
+</svg>

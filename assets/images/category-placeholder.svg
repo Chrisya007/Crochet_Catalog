@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Pastel blue handmade crochet placeholder</title>
+  <rect width="800" height="600" fill="#dceffa"/>
+  <circle cx="400" cy="300" r="172" fill="#b9e0f5"/>
+  <path d="M296 323c0-57 46-103 104-103s104 46 104 103v67H296z" fill="#f8fcff" stroke="#78b8dc" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M296 323c35 0 35 28 70 28s35-28 70-28 35 28 70 28" fill="none" stroke="#78b8dc" stroke-width="12" stroke-linecap="round"/>
+  <path d="M350 216c-2-45 21-74 52-74 32 0 55 29 52 74" fill="none" stroke="#78b8dc" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="351" cy="411" r="12" fill="#78b8dc"/>
+  <circle cx="400" cy="411" r="12" fill="#78b8dc"/>
+  <circle cx="449" cy="411" r="12" fill="#78b8dc"/>
+</svg>
